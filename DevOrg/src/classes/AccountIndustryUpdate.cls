@@ -1,8 +1,10 @@
 /*
 * Class level comment
+* This class is Populationg the 
+* SIC code value
 * This class has been created  by Me
 * Created Date : 20th August
-*	Modification Date : 
+* Modification Date : 
 */
 public class AccountIndustryUpdate{ 
     public void industryUpdate(List<Account> allNewAcc ,Map<Id,Account> oldAccMap){
