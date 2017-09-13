@@ -1,4 +1,8 @@
-
+/* nothing
+*  Created Date : 
+*  Modification Date : 
+*
+*/
 global class AccountInner{
      public boolean isSelected {get;set;}
      public Account acc {get;set;}
