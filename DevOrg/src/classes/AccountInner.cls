@@ -1,3 +1,8 @@
+/* This calss has been created by me
+*  Created Date : 
+*  Modification Date : 
+*  
+*/
 global class AccountInner{
      public boolean isSelected {get;set;}
      public Account acc {get;set;}
