@@ -1,3 +1,9 @@
+/*
+* Class level comment
+* This class has been created  by Me
+* Created Date : 20th August
+*	Modification Date : 
+*/
 public class AccountIndustryUpdate{ 
     public void industryUpdate(List<Account> allNewAcc ,Map<Id,Account> oldAccMap){
     Map<String,Sic_Industry__c> industryCS = new Map<String,Sic_Industry__c>();//
